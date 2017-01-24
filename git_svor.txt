@@ -43,3 +43,8 @@ Svar 4
 
 Svar 5
 	mikið að fólki notar GIT, hægt að nálgast upplýsinga léttilega
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+Svar 6
+	Þegar þú ert með eitthvað sem virkar(sem eyðileggur ekkert fyrir neinum örðum)
