@@ -48,3 +48,8 @@ Svar 5
 
 Svar 6
 	Þegar þú ert með eitthvað sem virkar(sem eyðileggur ekkert fyrir neinum örðum)
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+Svar7
+	partur að GIT trénu
