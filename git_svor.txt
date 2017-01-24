@@ -25,3 +25,11 @@ Svar 2
 	sınir vinnu stöğu
 	sınir breytingar á milli fremur skuldbindum
 	skiptir útibú eğa endurheimtar vinnandi skrá
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+Svar 3
+	eitt sınir breitingar sem gerğar hafa veriğ
