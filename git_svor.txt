@@ -63,3 +63,8 @@ Svar 8
 
 Svar 9
 	Janio Hamano og fleirri
+
+10.	Hvar er GIT helst notað?
+
+Svar 10
+	hjá hugbúnaðar forriturum
