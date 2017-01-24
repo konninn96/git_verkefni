@@ -6,6 +6,11 @@
 	mkdir
 
 Svar 1
+	breitir um skrá
+	léttari leið fyrir "home directory"
+	listi af skrám
+	prentar fullt nafn skránnar sem þú ert í
+	býr til skrá
 
 
 
