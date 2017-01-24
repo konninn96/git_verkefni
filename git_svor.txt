@@ -58,3 +58,8 @@ Svar 7
 
 Svar 8
 	þegar rót verkefna trés er svo að það getur komið skjámynd þegar þörf er
+
+9.	Hver fann upp GIT?
+
+Svar 9
+	Janio Hamano og fleirri
