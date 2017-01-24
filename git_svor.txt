@@ -33,3 +33,8 @@ Svar 2
 
 Svar 3
 	eitt sýnir breitingar sem gerðar hafa verið
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+
+Svar 4
+	flokkur forrita sem hjálpar hugbúnaðarliði breyta kóðanum með tímanum
