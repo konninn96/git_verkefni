@@ -38,3 +38,8 @@ Svar 3
 
 Svar 4
 	flokkur forrita sem hjálpar hugbúnaðarliði breyta kóðanum með tímanum
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+
+Svar 5
+	mikið að fólki notar GIT, hægt að nálgast upplýsinga léttilega
