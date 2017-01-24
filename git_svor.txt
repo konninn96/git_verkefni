@@ -51,5 +51,10 @@ Svar 6
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
-Svar7
+Svar 7
 	partur að GIT trénu
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+Svar 8
+	þegar rót verkefna trés er svo að það getur komið skjámynd þegar þörf er
