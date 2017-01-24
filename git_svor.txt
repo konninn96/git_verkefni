@@ -11,3 +11,17 @@ Svar 1
 	listi af skrám
 	prentar fullt nafn skránnar sem þú ert í
 	býr til skrá
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+
+Svar 2
+	klónar geymslu í nýrri skrá
+	sýnir fremju skrá
+	sýnir vinnu stöðu
+	sýnir breytingar á milli fremur skuldbindum
+	skiptir útibú eða endurheimtar vinnandi skrá
